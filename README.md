@@ -16,4 +16,5 @@
 - git add filename
 - git add -A
 - git commit -m "comment"
+- git merge filename
 - git push
